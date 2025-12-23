@@ -1,11 +1,11 @@
 
-# EXERCICE DEFINITION
+# EXERCICE DEFINITIONS
 
 Objectif : Définir des termes basiques
 
 ## Définitions
 
-1. **HTT**P** : protocole
+1. **HTTP** : protocole
 2. **GET**: appartient à HTTP, c'est des méthodes quand on veut récupérer quelque chose exemples : POST, UPDATE, DELETE, PUT, HEAD
 3. **DNS** : service
 4. **Https://** : s pour secure, protocole de début d'URL
