@@ -3,7 +3,7 @@
 
 Objectif : Verifier si Python, Node sont présents et que 2+2 font 4.
 
-## CODE VERIFICATION oui
+## CODE VERIFICATION
 
 1. Python
 `python3 --version`
